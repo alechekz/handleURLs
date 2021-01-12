@@ -1,2 +1,2 @@
 # handleURLs
-Еest task on parallel programming
+Test task on parallel programming
